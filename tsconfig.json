@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "rootDir": "./src",
-    "outDir": "bild",
+    "outDir": "dist",
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
